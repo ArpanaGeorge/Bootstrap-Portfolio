@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+  }
+
+  /*.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  /*####### Body #####*/
+  /* Style the body */
+  body {
+    font-family: Arial;
+    background-image: url("crossline-dots.png");
+    background-attachment: fixed;
+    background-repeat: repeat;
+    
+  }
+    
+/* 
+  /*####### Header #####*/
+  /*Header {
+    setting header as flexbox and setting space b/w name and links*/
+    
+  .myname{
+    color: #ffffff;
+    background-color: teal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+  }
+
+  
+
+  /*######## Content #########*/
+  /*Whole Content Body*/
+  .maincontent{
+   
+    margin:100px ;
+    padding: 20px;
+  } 
+
+  
+
+  /*####### Footer ##########*/
+   .footer{
+    
+    border-top: solid thick teal;
+    height: 40px;
+   /* padding-top: 20px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width :100%;*/
+ }
+   
+
+
+  
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
